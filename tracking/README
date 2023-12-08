@@ -1,0 +1,9 @@
+This is a ROS package made using Prophesee libraries for event-based camera tracking.
+
+About the project:
+
+Optical Tactile Sensing using Event-based Sensor
+
+Range of highly adaptive sensors are needed to reproduce the tactile sensing capacity of human hands. It is crucial for machines to be able to perform tasks made by human hands by the same or better accuracy. For that, tactile sensors need to become easily adaptive to varying environments and conditions. Our optical sensor integrates soft robotics, optical sensing, specifically with event-based vision.
+
+Further information upon publication.
